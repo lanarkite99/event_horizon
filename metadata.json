@@ -1,0 +1,5 @@
+{
+  "name": "Event Horizon",
+  "description": "An interactive, real-time WebGL black hole simulation using gravitational lensing shaders.",
+  "requestFramePermissions": []
+}
